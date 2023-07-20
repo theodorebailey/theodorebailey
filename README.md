@@ -1,8 +1,8 @@
 Greetings,
 
-I'm Theodore, but you can call me Ted. It's a pleasure to have you visiting my GitHub page. I am currently pursuing my studies at home, where I am dedicatedly honing my skills in Front-end Web Development ⛰️. My journey as a student has been one of continuous growth and exploration, always seeking to expand my knowledge and expertise 🚀.
+I'm Theodore, but you can call me Ted. It's a pleasure to have you visiting my GitHub page. I am currently pursuing my studies at home, where I am carefully honing my skills in Front-end Web Development ⛰️. My journey as a student has been one of continuous growth and exploration, always seeking to expand my knowledge and expertise 🚀.
 
-As a passionate web developer, I thrive on the challenges presented by HTML, CSS, and JavaScript, meticulously crafting elegant and interactive user experiences 💻. My curiosity extends beyond the frontend realm, as I venture into the world of Node and harness the capabilities of React.js ⌚. I will soon be picking up the fundamentals of Python to further develop my skillset. 
+As a passionate web developer, I thrive on the challenges presented by HTML, CSS, and JavaScript, meticulously crafting elegant and interactive user experiences 💻. My curiosity extends beyond the frontend realm, as I venture into the world of Node and harness the capabilities of React.js ⌚. I will soon be picking up the fundamentals of Python 🐍 to further develop my skillset. 
 
 While I find immense satisfaction in coding, I also value a well-rounded life. Fitness and nutrition are integral parts of my daily routine, as I believe in maintaining a balanced and healthy lifestyle 🥗. When not immersed in coding, I seek solace in drawing and literature 🎨📚. Taking time to appreciate the beauty of nature during leisurely walks to rejuvenate my spirit 🌳.
 
